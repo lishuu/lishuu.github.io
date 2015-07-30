@@ -16,13 +16,13 @@ categories: Rails,Gem
 | 2  | so       | 2015-07-29 03:47:30 UTC | 2015-07-29 03:47:30 UTC |
 +----+----------+-------------------------+-------------------------+
 2 rows in set
-{% endhighlight %} 
+{% endhighlight %}
 
-可以使用 [hirb](https://rubygems.org/gems/hirb).
+可以使用 [hirb](https://github.com/cldwalker/hirb).
 
 ###方法一
-1. Gemfile 中添加：`gem 'hirb'`
-2. 在 rails console 中输入 `Hirb.enable`
+* Gemfile 中添加：`gem 'hirb'`
+* 在 rails console 中输入 `Hirb.enable`
 
 ###方法二
 * 想每次进入 rails console 就自动激活 `Hirb`, 可以在 `~/.irbrc`中添加
