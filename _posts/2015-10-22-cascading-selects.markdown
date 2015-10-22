@@ -9,25 +9,31 @@ categories: rails
 
 #问题
 * 源代码 clone 本地，虽然数据能正常保存，但是提交数据后，系统会报错
-`
+{% highlight console %}
+
 ArgumentError in EventsController#create
-`
+
+{% endhighlight %}
 
 * 控制台显示如下信息
 
-```shell
+{% highlight console %}
+
 Completed 500 Internal Server Error in 13ms
 
 ArgumentError (wrong number of arguments (2 for 1)):
   app/controllers/events_controller.rb:24:in `block (2 levels) in create'
   app/controllers/events_controller.rb:22:in `create'
-```
+  
+{% endhighlight %}
 #解决
 
 经过一番折腾，原来是由于
 
 * Gemfile 中包含的 Turbolinks 版本太低，要解决这个问题，只要升级 Turbolinks 为较新的版本即可
 
-```shell
+{% highlight console %}
+
 gem 'turbolinks', '~> 2.5.3'
-```
+
+{% endhighlight %}
