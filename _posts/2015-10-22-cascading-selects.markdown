@@ -8,7 +8,7 @@ categories: rails
 >一个相对实现比优雅的基于 ajax 的级联选择 [Cascading selects](http://railsguides.net/cascading-selects-with-ajax-in-rails/)
 
 #问题
-* 源代码 clone 本地，虽然数据能正常保存，但是提交数据后，系统会报错
+* 源代码 [clone](https://github.com/railsguides/dynamic-selectable-demo) 本地，虽然数据能正常保存，但是提交数据后，系统会报错
 {% highlight console %}
 
 ArgumentError in EventsController#create
