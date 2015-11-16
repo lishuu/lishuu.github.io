@@ -14,6 +14,7 @@ categories: Mac,CentOS,Aliyun
 warning: setlocale: LC_CTYPE: cannot change locale (UTF-8): No such file or directory
 ```
 # A
+
 通过修改 ssh_config 文件就可以解决
 
 ### step 1
