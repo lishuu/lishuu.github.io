@@ -5,7 +5,7 @@ date:   2017-12-29 09:00:00
 categories: golang
 ---
 
-Golang 编译时候只需要指定两个参数：GOOS 和GOARCH 即可。
+Golang 编译时候只需要指定两个参数：`GOOS` 和 `GOARCH` 即可。
 
 ## 示例
 
