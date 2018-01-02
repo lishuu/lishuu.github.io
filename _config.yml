@@ -10,11 +10,12 @@ exclude:
 
 # Site settings
 title: s h u
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+subtitle: "Stay hungry stay foolish"
 email: subsky@gmail.com
 name: lishu
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  stay hungry stay foolish
+  # A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -73,7 +74,7 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
+    username: lishuu
     url: https://twitter.com/lishuu
     desc: Follow me on Twitter
     share: true
@@ -87,7 +88,7 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
+    username: lishuu
     url: https://github.com/lishuu
     desc: Fork me on GitHub
     share: false
