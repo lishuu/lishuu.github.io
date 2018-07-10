@@ -3,7 +3,6 @@ layout: post
 title:  "终止Node进程"
 date:   2018-07-10 09:00:00
 categories: node
-by: lishu
 ---
 > 开发过程中，在阶段性部署前端项目时，node有时候不能终止，导致无法 pull code 的情况，无论采用 ctrl+c、ctrl+whatever 多少次也没有效果，这时我们只有去cmd手动处理。
 
