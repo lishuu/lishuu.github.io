@@ -21,7 +21,7 @@ netstat -ano;
 ## 3. 根据进程id，终止该进程
 
 ```shell
-taskkill -pid 4128 -F
+taskkill -pid 4128 -F;
 ```
 
 如下图：
