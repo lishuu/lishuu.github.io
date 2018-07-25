@@ -6,9 +6,9 @@ categories: toy
 ---
 
 ## AKKO Maxkey Tada 68 Pro 
-> - cherry樱桃轴 
-> - 68键
-> - 白背光纯PBT键帽 
+> - Cherry 樱桃轴 
+> - 68 键
+> - 白背光纯 PBT 键帽 
 > - 蓝牙/有线双模 
 > - 复古灰白 
 > - 茶轴
