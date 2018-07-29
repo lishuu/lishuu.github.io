@@ -13,4 +13,4 @@ categories: toy
 > - 复古灰白 
 > - 茶轴
 
-![Tada 68](https://i.imgur.com/FAJ6JtW.jpg)
+![Tada 68](https://i.imgur.com/DolYSiN.jpg)
