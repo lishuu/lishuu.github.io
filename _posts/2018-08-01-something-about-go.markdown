@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Something about go"
+title:  "Something About Go"
 date:   2018-08-01 09:00:00
 categories: golang
 ---
