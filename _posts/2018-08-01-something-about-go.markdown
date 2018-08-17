@@ -14,3 +14,4 @@ categories: golang
 - [Go Config A pluggable config framework](https://micro.mu/blog/2018/07/04/go-config.html)
 - [Storing Go Structs in Redis using ReJSON](https://itnext.io/storing-go-structs-in-redis-using-rejson-dab7f8fc0053)
 - [The Go Object Lifecycle](https://middlemost.com/object-lifecycle/)
+- [Applying The Clean Architecture to Go applications](http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)
