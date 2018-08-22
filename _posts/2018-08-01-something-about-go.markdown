@@ -15,3 +15,5 @@ categories: golang
 - [Storing Go Structs in Redis using ReJSON](https://itnext.io/storing-go-structs-in-redis-using-rejson-dab7f8fc0053)
 - [The Go Object Lifecycle](https://middlemost.com/object-lifecycle/)
 - [Applying The Clean Architecture to Go applications](http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)
+- [Trying Clean Architecture on Golang](https://hackernoon.com/golang-clean-archithecture-efd6d7c43047)
+- [Clean Architecture using Golang](https://medium.com/@eminetto/clean-architecture-using-golang-b63587aa5e3f)
